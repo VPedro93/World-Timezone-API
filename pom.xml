@@ -33,7 +33,7 @@
 				<workerType>Micro</workerType>
 				<applicationName>WorldTimeZoneService</applicationName>
 				<password>Vascop93</password>
-				<objectStoreV1>false</objectStoreV1>
+				<objectStoreV2>true</objectStoreV2>
 				<muleVersion>4.2.2</muleVersion>
 				</cloudHubDeployment>
 				</configuration>
