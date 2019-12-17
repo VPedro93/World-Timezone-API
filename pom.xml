@@ -27,12 +27,13 @@
 				<extensions>true</extensions>
 				<configuration>
 				<cloudHubDeployment>
-				<username>jmgbatista</username>
+				<username>vascodummy</username>
 				<environment>Sandbox</environment>
 				<workers>1</workers>
 				<workerType>Micro</workerType>
 				<applicationName>WorldTimeZoneService</applicationName>
-				<password>Deloitte.2019</password>
+				<password>Vascop93</password>
+				<objectStoreV1>false</objectStoreV1>
 				<muleVersion>4.2.2</muleVersion>
 				</cloudHubDeployment>
 				</configuration>
